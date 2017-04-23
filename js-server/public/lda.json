@@ -1,0 +1,5665 @@
+[
+	{
+		"All in Goodspeed": [
+			[
+				{
+					"term": "goodspeed",
+					"probability": 0.054
+				},
+				{
+					"term": "middletown",
+					"probability": 0.046
+				},
+				{
+					"term": "bennet",
+					"probability": 0.041
+				},
+				{
+					"term": "students",
+					"probability": 0.039
+				},
+				{
+					"term": "encourage",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "middletown",
+					"probability": 0.084
+				},
+				{
+					"term": "goodspeed",
+					"probability": 0.039
+				},
+				{
+					"term": "culturally",
+					"probability": 0.029
+				},
+				{
+					"term": "bennet",
+					"probability": 0.027
+				},
+				{
+					"term": "students",
+					"probability": 0.026
+				}
+			]
+		]
+	},
+	{
+		"Mel Gibson to speak at commencement": [
+			[
+				{
+					"term": "gibson",
+					"probability": 0.069
+				},
+				{
+					"term": "wesleyans",
+					"probability": 0.043
+				},
+				{
+					"term": "presidents",
+					"probability": 0.022
+				},
+				{
+					"term": "address",
+					"probability": 0.022
+				},
+				{
+					"term": "commencement",
+					"probability": 0.021
+				}
+			],
+			[
+				{
+					"term": "university",
+					"probability": 0.045
+				},
+				{
+					"term": "gibson",
+					"probability": 0.043
+				},
+				{
+					"term": "passionately",
+					"probability": 0.03
+				},
+				{
+					"term": "movies",
+					"probability": 0.021
+				},
+				{
+					"term": "destinta",
+					"probability": 0.02
+				}
+			]
+		]
+	},
+	{
+		"Administration to phase out off-campus housing in upcoming years": [
+			[
+				{
+					"term": "offcampus",
+					"probability": 0.11
+				},
+				{
+					"term": "housing",
+					"probability": 0.082
+				},
+				{
+					"term": "students",
+					"probability": 0.078
+				},
+				{
+					"term": "decapua",
+					"probability": 0.045
+				},
+				{
+					"term": "years",
+					"probability": 0.037
+				}
+			],
+			[
+				{
+					"term": "housing",
+					"probability": 0.054
+				},
+				{
+					"term": "residential",
+					"probability": 0.044
+				},
+				{
+					"term": "harmon",
+					"probability": 0.035
+				},
+				{
+					"term": "students",
+					"probability": 0.033
+				},
+				{
+					"term": "field",
+					"probability": 0.027
+				}
+			]
+		]
+	},
+	{
+		"Off-campus plan widens town-gown divide": [
+			[
+				{
+					"term": "students",
+					"probability": 0.11
+				},
+				{
+					"term": "university",
+					"probability": 0.042
+				},
+				{
+					"term": "live",
+					"probability": 0.04
+				},
+				{
+					"term": "oncampus",
+					"probability": 0.038
+				},
+				{
+					"term": "offcampus",
+					"probability": 0.03
+				}
+			],
+			[
+				{
+					"term": "community",
+					"probability": 0.078
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.032
+				},
+				{
+					"term": "relations",
+					"probability": 0.031
+				},
+				{
+					"term": "foster",
+					"probability": 0.031
+				},
+				{
+					"term": "closeness",
+					"probability": 0.031
+				}
+			]
+		]
+	},
+	{
+		"For V-Day needs, head to Tina’s": [
+			[
+				{
+					"term": "valentines",
+					"probability": 0.054
+				},
+				{
+					"term": "lot",
+					"probability": 0.052
+				},
+				{
+					"term": "day",
+					"probability": 0.043
+				},
+				{
+					"term": "people",
+					"probability": 0.032
+				},
+				{
+					"term": "gift",
+					"probability": 0.032
+				}
+			],
+			[
+				{
+					"term": "store",
+					"probability": 0.061
+				},
+				{
+					"term": "tinas",
+					"probability": 0.052
+				},
+				{
+					"term": "students",
+					"probability": 0.052
+				},
+				{
+					"term": "lun",
+					"probability": 0.052
+				},
+				{
+					"term": "lingerie",
+					"probability": 0.052
+				}
+			]
+		]
+	},
+	{
+		"Center for Continuing Studies launches its second semester": [
+			[
+				{
+					"term": "courses",
+					"probability": 0.049
+				},
+				{
+					"term": "classes",
+					"probability": 0.041
+				},
+				{
+					"term": "offers",
+					"probability": 0.039
+				},
+				{
+					"term": "semester",
+					"probability": 0.036
+				},
+				{
+					"term": "residents",
+					"probability": 0.031
+				}
+			],
+			[
+				{
+					"term": "center",
+					"probability": 0.066
+				},
+				{
+					"term": "studies",
+					"probability": 0.052
+				},
+				{
+					"term": "program",
+					"probability": 0.052
+				},
+				{
+					"term": "continuing",
+					"probability": 0.052
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.032
+				}
+			]
+		]
+	},
+	{
+		"Wesleyan draws line between High Rise and Traverse Square": [
+			[
+				{
+					"term": "wesleyan",
+					"probability": 0.047
+				},
+				{
+					"term": "students",
+					"probability": 0.041
+				},
+				{
+					"term": "traverse",
+					"probability": 0.034
+				},
+				{
+					"term": "square",
+					"probability": 0.034
+				},
+				{
+					"term": "wall",
+					"probability": 0.02
+				}
+			],
+			[
+				{
+					"term": "read",
+					"probability": 0.024
+				},
+				{
+					"term": "blocked",
+					"probability": 0.02
+				}
+			]
+		]
+	},
+	{
+		"Mayor greets voters before upcoming election": [
+			[
+				{
+					"term": "issues",
+					"probability": 0.041
+				},
+				{
+					"term": "education",
+					"probability": 0.033
+				},
+				{
+					"term": "school",
+					"probability": 0.031
+				},
+				{
+					"term": "high",
+					"probability": 0.023
+				}
+			],
+			[
+				{
+					"term": "thornton",
+					"probability": 0.051
+				},
+				{
+					"term": "voters",
+					"probability": 0.032
+				},
+				{
+					"term": "democratic",
+					"probability": 0.03
+				},
+				{
+					"term": "mayor",
+					"probability": 0.028
+				},
+				{
+					"term": "votes",
+					"probability": 0.024
+				}
+			]
+		]
+	},
+	{
+		"Sutton and Trio play benefit for arts center in Crowell": [
+			[
+				{
+					"term": "sutton",
+					"probability": 0.051
+				},
+				{
+					"term": "wesleyans",
+					"probability": 0.048
+				},
+				{
+					"term": "students",
+					"probability": 0.027
+				},
+				{
+					"term": "gsac",
+					"probability": 0.027
+				},
+				{
+					"term": "center",
+					"probability": 0.027
+				}
+			],
+			[
+				{
+					"term": "sutton",
+					"probability": 0.059
+				},
+				{
+					"term": "songs",
+					"probability": 0.051
+				},
+				{
+					"term": "band",
+					"probability": 0.051
+				},
+				{
+					"term": "members",
+					"probability": 0.025
+				},
+				{
+					"term": "audience",
+					"probability": 0.024
+				}
+			]
+		]
+	},
+	{
+		"Film Commentary: Women in Hollywood": [
+			[
+				{
+					"term": "film",
+					"probability": 0.041
+				},
+				{
+					"term": "friends",
+					"probability": 0.036
+				},
+				{
+					"term": "money",
+					"probability": 0.028
+				},
+				{
+					"term": "holofceners",
+					"probability": 0.024
+				},
+				{
+					"term": "audience",
+					"probability": 0.023
+				}
+			],
+			[
+				{
+					"term": "aniston",
+					"probability": 0.039
+				},
+				{
+					"term": "hollywood",
+					"probability": 0.032
+				},
+				{
+					"term": "mcdormand",
+					"probability": 0.028
+				},
+				{
+					"term": "keener",
+					"probability": 0.024
+				},
+				{
+					"term": "cusack",
+					"probability": 0.024
+				}
+			]
+		]
+	},
+	{
+		"The past, present, and future of the presidency…": [
+			[
+				{
+					"term": "president",
+					"probability": 0.039
+				},
+				{
+					"term": "bennets",
+					"probability": 0.039
+				},
+				{
+					"term": "university",
+					"probability": 0.036
+				},
+				{
+					"term": "student",
+					"probability": 0.028
+				},
+				{
+					"term": "year",
+					"probability": 0.021
+				}
+			],
+			[
+				{
+					"term": "student",
+					"probability": 0.036
+				},
+				{
+					"term": "bennets",
+					"probability": 0.036
+				},
+				{
+					"term": "administration",
+					"probability": 0.036
+				},
+				{
+					"term": "improve",
+					"probability": 0.026
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.024
+				}
+			]
+		]
+	},
+	{
+		"Bennet announces retirement": [
+			[
+				{
+					"term": "wesleyan",
+					"probability": 0.061
+				},
+				{
+					"term": "student",
+					"probability": 0.049
+				},
+				{
+					"term": "faculty",
+					"probability": 0.02
+				}
+			],
+			[
+				{
+					"term": "bennet",
+					"probability": 0.076
+				},
+				{
+					"term": "time",
+					"probability": 0.033
+				},
+				{
+					"term": "president",
+					"probability": 0.033
+				},
+				{
+					"term": "board",
+					"probability": 0.033
+				},
+				{
+					"term": "university",
+					"probability": 0.023
+				}
+			]
+		]
+	},
+	{
+		"Open letter to President Bennet from Benjamin ’57": [
+			[
+				{
+					"term": "doug",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.029
+				}
+			]
+		]
+	},
+	{
+		"Syracuse U. president applies town-gown relations to Wes": [
+			[
+				{
+					"term": "local",
+					"probability": 0.041
+				},
+				{
+					"term": "communities",
+					"probability": 0.038
+				},
+				{
+					"term": "scholarship",
+					"probability": 0.032
+				},
+				{
+					"term": "public",
+					"probability": 0.032
+				}
+			],
+			[
+				{
+					"term": "cantor",
+					"probability": 0.057
+				},
+				{
+					"term": "universities",
+					"probability": 0.043
+				},
+				{
+					"term": "syracuse",
+					"probability": 0.042
+				},
+				{
+					"term": "student",
+					"probability": 0.03
+				},
+				{
+					"term": "downtown",
+					"probability": 0.024
+				}
+			]
+		]
+	},
+	{
+		"Scobey urges an end to insular academic attitudes": [
+			[
+				{
+					"term": "scobey",
+					"probability": 0.066
+				},
+				{
+					"term": "university",
+					"probability": 0.031
+				},
+				{
+					"term": "academic",
+					"probability": 0.026
+				},
+				{
+					"term": "explained",
+					"probability": 0.02
+				}
+			],
+			[
+				{
+					"term": "community",
+					"probability": 0.055
+				},
+				{
+					"term": "scobey",
+					"probability": 0.051
+				},
+				{
+					"term": "university",
+					"probability": 0.037
+				},
+				{
+					"term": "arts",
+					"probability": 0.037
+				},
+				{
+					"term": "work",
+					"probability": 0.025
+				}
+			]
+		]
+	},
+	{
+		"Midge hosts dialogue": [
+			[
+				{
+					"term": "bennet",
+					"probability": 0.093
+				},
+				{
+					"term": "president",
+					"probability": 0.042
+				},
+				{
+					"term": "meetings",
+					"probability": 0.021
+				},
+				{
+					"term": "campus",
+					"probability": 0.021
+				}
+			],
+			[
+				{
+					"term": "bennet",
+					"probability": 0.076
+				},
+				{
+					"term": "president",
+					"probability": 0.038
+				},
+				{
+					"term": "visits",
+					"probability": 0.028
+				},
+				{
+					"term": "middletowns",
+					"probability": 0.022
+				}
+			]
+		]
+	},
+	{
+		"“Town-gown” panel addresses development": [
+			[
+				{
+					"term": "middletown",
+					"probability": 0.056
+				},
+				{
+					"term": "panelists",
+					"probability": 0.039
+				},
+				{
+					"term": "alexander",
+					"probability": 0.03
+				},
+				{
+					"term": "village",
+					"probability": 0.02
+				},
+				{
+					"term": "downtown",
+					"probability": 0.02
+				}
+			],
+			[
+				{
+					"term": "north",
+					"probability": 0.05
+				},
+				{
+					"term": "middletown",
+					"probability": 0.035
+				},
+				{
+					"term": "students",
+					"probability": 0.022
+				}
+			]
+		]
+	},
+	{
+		"Bennet legacy forms": [
+			[
+				{
+					"term": "bennet",
+					"probability": 0.053
+				},
+				{
+					"term": "president",
+					"probability": 0.029
+				},
+				{
+					"term": "faculty",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.062
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.02
+				},
+				{
+					"term": "center",
+					"probability": 0.02
+				}
+			]
+		]
+	},
+	{
+		"Bennet immortalized in song and dance": [
+			[
+				{
+					"term": "zingler",
+					"probability": 0.042
+				},
+				{
+					"term": "voice",
+					"probability": 0.021
+				}
+			],
+			[
+				{
+					"term": "bennet",
+					"probability": 0.053
+				},
+				{
+					"term": "footman",
+					"probability": 0.05
+				},
+				{
+					"term": "musical",
+					"probability": 0.028
+				},
+				{
+					"term": "theatre",
+					"probability": 0.022
+				},
+				{
+					"term": "show",
+					"probability": 0.022
+				}
+			]
+		]
+	},
+	{
+		"Q and A with President-elect Michael Roth": [
+			[
+				{
+					"term": "work",
+					"probability": 0.027
+				},
+				{
+					"term": "thought",
+					"probability": 0.026
+				},
+				{
+					"term": "people",
+					"probability": 0.026
+				},
+				{
+					"term": "talk",
+					"probability": 0.021
+				}
+			],
+			[
+				{
+					"term": "wesleyan",
+					"probability": 0.055
+				},
+				{
+					"term": "people",
+					"probability": 0.037
+				},
+				{
+					"term": "important",
+					"probability": 0.023
+				},
+				{
+					"term": "student",
+					"probability": 0.02
+				}
+			]
+		]
+	},
+	{
+		"Roth returns: Community welcomes alumnus as President": [
+			[
+				{
+					"term": "roth",
+					"probability": 0.08
+				},
+				{
+					"term": "students",
+					"probability": 0.045
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.042
+				},
+				{
+					"term": "community",
+					"probability": 0.025
+				},
+				{
+					"term": "speech",
+					"probability": 0.023
+				}
+			],
+			[
+				{
+					"term": "working",
+					"probability": 0.038
+				},
+				{
+					"term": "bennet",
+					"probability": 0.036
+				},
+				{
+					"term": "roth",
+					"probability": 0.032
+				},
+				{
+					"term": "institutional",
+					"probability": 0.032
+				},
+				{
+					"term": "search",
+					"probability": 0.02
+				}
+			]
+		]
+	},
+	{
+		"Assaults raise PSafe vigilance": [
+			[
+				{
+					"term": "students",
+					"probability": 0.12
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.08
+				},
+				{
+					"term": "assaults",
+					"probability": 0.058
+				},
+				{
+					"term": "middletown",
+					"probability": 0.054
+				},
+				{
+					"term": "meyer",
+					"probability": 0.049
+				}
+			],
+			[
+				{
+					"term": "incidents",
+					"probability": 0.068
+				},
+				{
+					"term": "safety",
+					"probability": 0.043
+				},
+				{
+					"term": "police",
+					"probability": 0.043
+				},
+				{
+					"term": "meyer",
+					"probability": 0.039
+				},
+				{
+					"term": "relationship",
+					"probability": 0.034
+				}
+			]
+		]
+	},
+	{
+		"Learn about the environmental and social consequences of coal": [
+			[
+				{
+					"term": "coal",
+					"probability": 0.06
+				},
+				{
+					"term": "communities",
+					"probability": 0.059
+				},
+				{
+					"term": "environmental",
+					"probability": 0.04
+				},
+				{
+					"term": "comp",
+					"probability": 0.039
+				},
+				{
+					"term": "country",
+					"probability": 0.03
+				}
+			],
+			[
+				{
+					"term": "people",
+					"probability": 0.028
+				},
+				{
+					"term": "live",
+					"probability": 0.028
+				},
+				{
+					"term": "water",
+					"probability": 0.026
+				}
+			]
+		]
+	},
+	{
+		"634 for O’Rourke’s?": [
+			[
+				{
+					"term": "orourkes",
+					"probability": 0.053
+				},
+				{
+					"term": "towngown",
+					"probability": 0.028
+				},
+				{
+					"term": "rebuild",
+					"probability": 0.028
+				},
+				{
+					"term": "good",
+					"probability": 0.028
+				},
+				{
+					"term": "efforts",
+					"probability": 0.028
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.097
+				},
+				{
+					"term": "middletown",
+					"probability": 0.069
+				},
+				{
+					"term": "634",
+					"probability": 0.05
+				},
+				{
+					"term": "university",
+					"probability": 0.036
+				},
+				{
+					"term": "locales",
+					"probability": 0.024
+				}
+			]
+		]
+	},
+	{
+		"Point/Counterpoint": [
+			[
+				{
+					"term": "university",
+					"probability": 0.057
+				},
+				{
+					"term": "initiatives",
+					"probability": 0.042
+				},
+				{
+					"term": "students",
+					"probability": 0.03
+				},
+				{
+					"term": "experience",
+					"probability": 0.028
+				},
+				{
+					"term": "faculty",
+					"probability": 0.026
+				}
+			],
+			[
+				{
+					"term": "program",
+					"probability": 0.046
+				},
+				{
+					"term": "proposals",
+					"probability": 0.04
+				},
+				{
+					"term": "college",
+					"probability": 0.035
+				},
+				{
+					"term": "studies",
+					"probability": 0.023
+				},
+				{
+					"term": "sciences",
+					"probability": 0.023
+				}
+			]
+		]
+	},
+	{
+		"Creative campus: Roth, faculty plan enhanced curriculum": [
+			[
+				{
+					"term": "program",
+					"probability": 0.073
+				},
+				{
+					"term": "writing",
+					"probability": 0.048
+				},
+				{
+					"term": "studies",
+					"probability": 0.046
+				},
+				{
+					"term": "writers",
+					"probability": 0.037
+				},
+				{
+					"term": "proposals",
+					"probability": 0.025
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.058
+				},
+				{
+					"term": "roth",
+					"probability": 0.057
+				},
+				{
+					"term": "creative",
+					"probability": 0.038
+				},
+				{
+					"term": "university",
+					"probability": 0.035
+				},
+				{
+					"term": "initiatives",
+					"probability": 0.032
+				}
+			]
+		]
+	},
+	{
+		"University appoints new VP for Diversity": [
+			[
+				{
+					"term": "president",
+					"probability": 0.049
+				},
+				{
+					"term": "students",
+					"probability": 0.041
+				},
+				{
+					"term": "administration",
+					"probability": 0.037
+				},
+				{
+					"term": "vice",
+					"probability": 0.032
+				},
+				{
+					"term": "whaley",
+					"probability": 0.023
+				}
+			],
+			[
+				{
+					"term": "mañjon",
+					"probability": 0.071
+				},
+				{
+					"term": "universitys",
+					"probability": 0.053
+				},
+				{
+					"term": "program",
+					"probability": 0.043
+				},
+				{
+					"term": "community",
+					"probability": 0.043
+				},
+				{
+					"term": "center",
+					"probability": 0.043
+				}
+			]
+		]
+	},
+	{
+		"Roth reaches out in first year": [
+			[
+				{
+					"term": "students",
+					"probability": 0.043
+				},
+				{
+					"term": "roth",
+					"probability": 0.035
+				},
+				{
+					"term": "financial",
+					"probability": 0.03
+				},
+				{
+					"term": "lot",
+					"probability": 0.026
+				},
+				{
+					"term": "campus",
+					"probability": 0.026
+				}
+			],
+			[
+				{
+					"term": "year",
+					"probability": 0.06
+				},
+				{
+					"term": "roth",
+					"probability": 0.037
+				},
+				{
+					"term": "universitys",
+					"probability": 0.033
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.031
+				},
+				{
+					"term": "president",
+					"probability": 0.027
+				}
+			]
+		]
+	},
+	{
+		"Asian American Studies falls under ‘Internationalization’": [
+			[
+				{
+					"term": "wesleyan",
+					"probability": 0.045
+				},
+				{
+					"term": "students",
+					"probability": 0.037
+				},
+				{
+					"term": "studies",
+					"probability": 0.031
+				},
+				{
+					"term": "roth",
+					"probability": 0.023
+				},
+				{
+					"term": "internationalize",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "american",
+					"probability": 0.15
+				},
+				{
+					"term": "asian",
+					"probability": 0.09
+				},
+				{
+					"term": "histories",
+					"probability": 0.039
+				},
+				{
+					"term": "community",
+					"probability": 0.032
+				}
+			]
+		]
+	},
+	{
+		"WSA gathers students in Usdan for forum on Fountain": [
+			[
+				{
+					"term": "student",
+					"probability": 0.042
+				},
+				{
+					"term": "police",
+					"probability": 0.037
+				},
+				{
+					"term": "08",
+					"probability": 0.036
+				},
+				{
+					"term": "university",
+					"probability": 0.03
+				},
+				{
+					"term": "offices",
+					"probability": 0.026
+				}
+			],
+			[
+				{
+					"term": "student",
+					"probability": 0.057
+				},
+				{
+					"term": "whaley",
+					"probability": 0.03
+				},
+				{
+					"term": "wsa",
+					"probability": 0.026
+				},
+				{
+					"term": "questions",
+					"probability": 0.026
+				},
+				{
+					"term": "pernick",
+					"probability": 0.026
+				}
+			]
+		]
+	},
+	{
+		"2007-2008: Know your news": [
+			[
+				{
+					"term": "campus",
+					"probability": 0.036
+				},
+				{
+					"term": "students",
+					"probability": 0.031
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.031
+				},
+				{
+					"term": "workers",
+					"probability": 0.025
+				}
+			]
+		]
+	},
+	{
+		"ODC/Dance performs and teaches while on campus": [
+			[
+				{
+					"term": "songs",
+					"probability": 0.021
+				}
+			],
+			[
+				{
+					"term": "performing",
+					"probability": 0.037
+				},
+				{
+					"term": "pieces",
+					"probability": 0.025
+				},
+				{
+					"term": "dancer",
+					"probability": 0.025
+				},
+				{
+					"term": "company",
+					"probability": 0.023
+				}
+			]
+		]
+	},
+	{
+		"Mytheos’ misrepresentation": [
+			[
+				{
+					"term": "police",
+					"probability": 0.039
+				},
+				{
+					"term": "conflict",
+					"probability": 0.038
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.036
+				},
+				{
+					"term": "officers",
+					"probability": 0.03
+				},
+				{
+					"term": "students",
+					"probability": 0.029
+				}
+			],
+			[
+				{
+					"term": "middletown",
+					"probability": 0.096
+				},
+				{
+					"term": "holts",
+					"probability": 0.059
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.035
+				},
+				{
+					"term": "research",
+					"probability": 0.034
+				},
+				{
+					"term": "community",
+					"probability": 0.033
+				}
+			]
+		]
+	},
+	{
+		"WESU expands programming": [
+			[
+				{
+					"term": "wesu",
+					"probability": 0.042
+				},
+				{
+					"term": "programming",
+					"probability": 0.029
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.027
+				},
+				{
+					"term": "university",
+					"probability": 0.026
+				},
+				{
+					"term": "show",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "station",
+					"probability": 0.038
+				},
+				{
+					"term": "middletown",
+					"probability": 0.028
+				},
+				{
+					"term": "resident",
+					"probability": 0.026
+				},
+				{
+					"term": "hutton",
+					"probability": 0.023
+				},
+				{
+					"term": "radio",
+					"probability": 0.02
+				}
+			]
+		]
+	},
+	{
+		"Misreading Mytheology": [
+			[
+				{
+					"term": "middletown",
+					"probability": 0.071
+				},
+				{
+					"term": "students",
+					"probability": 0.053
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.046
+				},
+				{
+					"term": "resident",
+					"probability": 0.026
+				}
+			],
+			[
+				{
+					"term": "officers",
+					"probability": 0.04
+				},
+				{
+					"term": "police",
+					"probability": 0.032
+				},
+				{
+					"term": "compelled",
+					"probability": 0.024
+				},
+				{
+					"term": "avenue",
+					"probability": 0.024
+				},
+				{
+					"term": "hostility",
+					"probability": 0.023
+				}
+			]
+		]
+	},
+	{
+		"2002 incident recalls Fountain": [
+			[
+				{
+					"term": "police",
+					"probability": 0.055
+				},
+				{
+					"term": "fire",
+					"probability": 0.027
+				},
+				{
+					"term": "department",
+					"probability": 0.025
+				},
+				{
+					"term": "street",
+					"probability": 0.023
+				},
+				{
+					"term": "party",
+					"probability": 0.023
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.064
+				},
+				{
+					"term": "2002",
+					"probability": 0.038
+				},
+				{
+					"term": "incident",
+					"probability": 0.034
+				},
+				{
+					"term": "whaley",
+					"probability": 0.03
+				},
+				{
+					"term": "happen",
+					"probability": 0.03
+				}
+			]
+		]
+	},
+	{
+		"Courant columnist critiques students": [
+			[
+				{
+					"term": "middletown",
+					"probability": 0.045
+				},
+				{
+					"term": "rg",
+					"probability": 0.035
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.032
+				},
+				{
+					"term": "covered",
+					"probability": 0.026
+				},
+				{
+					"term": "students",
+					"probability": 0.025
+				}
+			],
+			[
+				{
+					"term": "comment",
+					"probability": 0.036
+				},
+				{
+					"term": "cops",
+					"probability": 0.031
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.028
+				},
+				{
+					"term": "covered",
+					"probability": 0.026
+				},
+				{
+					"term": "rg",
+					"probability": 0.025
+				}
+			]
+		]
+	},
+	{
+		"WesVotes promotes student registration": [
+			[
+				{
+					"term": "goy",
+					"probability": 0.051
+				},
+				{
+					"term": "voter",
+					"probability": 0.042
+				},
+				{
+					"term": "hall",
+					"probability": 0.034
+				},
+				{
+					"term": "register",
+					"probability": 0.025
+				},
+				{
+					"term": "director",
+					"probability": 0.025
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.11
+				},
+				{
+					"term": "voting",
+					"probability": 0.053
+				},
+				{
+					"term": "program",
+					"probability": 0.041
+				},
+				{
+					"term": "wesvotes",
+					"probability": 0.036
+				},
+				{
+					"term": "offices",
+					"probability": 0.031
+				}
+			]
+		]
+	},
+	{
+		"Budgetary constraints threaten NY Times readership program": [
+			[
+				{
+					"term": "york",
+					"probability": 0.045
+				},
+				{
+					"term": "times",
+					"probability": 0.045
+				},
+				{
+					"term": "paper",
+					"probability": 0.034
+				},
+				{
+					"term": "copies",
+					"probability": 0.034
+				},
+				{
+					"term": "readership",
+					"probability": 0.033
+				}
+			],
+			[
+				{
+					"term": "wsa",
+					"probability": 0.05
+				},
+				{
+					"term": "office",
+					"probability": 0.05
+				},
+				{
+					"term": "funding",
+					"probability": 0.05
+				},
+				{
+					"term": "affairs",
+					"probability": 0.04
+				},
+				{
+					"term": "students",
+					"probability": 0.039
+				}
+			]
+		]
+	},
+	{
+		"Mytheology: The Wages of Immaturity": [
+			[],
+			[
+				{
+					"term": "authority",
+					"probability": 0.066
+				},
+				{
+					"term": "students",
+					"probability": 0.048
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.044
+				},
+				{
+					"term": "sjb",
+					"probability": 0.035
+				},
+				{
+					"term": "power",
+					"probability": 0.026
+				}
+			]
+		]
+	},
+	{
+		"Red & Black owner connects student bands with Public Bar": [
+			[
+				{
+					"term": "derosa",
+					"probability": 0.056
+				},
+				{
+					"term": "bands",
+					"probability": 0.052
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.049
+				},
+				{
+					"term": "music",
+					"probability": 0.042
+				},
+				{
+					"term": "wednesday",
+					"probability": 0.027
+				}
+			],
+			[
+				{
+					"term": "play",
+					"probability": 0.052
+				},
+				{
+					"term": "sajan",
+					"probability": 0.039
+				},
+				{
+					"term": "student",
+					"probability": 0.034
+				},
+				{
+					"term": "part",
+					"probability": 0.023
+				},
+				{
+					"term": "show",
+					"probability": 0.021
+				}
+			]
+		]
+	},
+	{
+		"Policy out of controversy": [
+			[
+				{
+					"term": "campus",
+					"probability": 0.067
+				},
+				{
+					"term": "reforms",
+					"probability": 0.045
+				},
+				{
+					"term": "universitys",
+					"probability": 0.044
+				},
+				{
+					"term": "commission",
+					"probability": 0.044
+				},
+				{
+					"term": "fountain",
+					"probability": 0.033
+				}
+			],
+			[
+				{
+					"term": "student",
+					"probability": 0.12
+				},
+				{
+					"term": "officers",
+					"probability": 0.076
+				},
+				{
+					"term": "individual",
+					"probability": 0.025
+				},
+				{
+					"term": "addition",
+					"probability": 0.025
+				},
+				{
+					"term": "police",
+					"probability": 0.022
+				}
+			]
+		]
+	},
+	{
+		"Bursting the Campus Bubble": [
+			[
+				{
+					"term": "wesleyans",
+					"probability": 0.11
+				},
+				{
+					"term": "middletown",
+					"probability": 0.098
+				},
+				{
+					"term": "residents",
+					"probability": 0.061
+				},
+				{
+					"term": "computer",
+					"probability": 0.049
+				},
+				{
+					"term": "policy",
+					"probability": 0.037
+				}
+			],
+			[
+				{
+					"term": "tuesday",
+					"probability": 0.034
+				},
+				{
+					"term": "towngown",
+					"probability": 0.034
+				},
+				{
+					"term": "sdss",
+					"probability": 0.034
+				},
+				{
+					"term": "replicate",
+					"probability": 0.034
+				},
+				{
+					"term": "relations",
+					"probability": 0.034
+				}
+			]
+		]
+	},
+	{
+		"Argus: Is Prison a Theme Park?": [
+			[
+				{
+					"term": "prison",
+					"probability": 0.081
+				},
+				{
+					"term": "project",
+					"probability": 0.045
+				},
+				{
+					"term": "published",
+					"probability": 0.027
+				},
+				{
+					"term": "population",
+					"probability": 0.027
+				},
+				{
+					"term": "editorial",
+					"probability": 0.027
+				}
+			],
+			[
+				{
+					"term": "wesleyan",
+					"probability": 0.064
+				},
+				{
+					"term": "incarcerated",
+					"probability": 0.034
+				},
+				{
+					"term": "education",
+					"probability": 0.029
+				},
+				{
+					"term": "students",
+					"probability": 0.025
+				},
+				{
+					"term": "ethical",
+					"probability": 0.025
+				}
+			]
+		]
+	},
+	{
+		"Wesleyan Center for Prison Education: Informal Proposal": [
+			[
+				{
+					"term": "wesleyan",
+					"probability": 0.074
+				},
+				{
+					"term": "program",
+					"probability": 0.07
+				},
+				{
+					"term": "students",
+					"probability": 0.044
+				},
+				{
+					"term": "courses",
+					"probability": 0.044
+				},
+				{
+					"term": "semester",
+					"probability": 0.035
+				}
+			],
+			[
+				{
+					"term": "education",
+					"probability": 0.097
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.056
+				},
+				{
+					"term": "opportunities",
+					"probability": 0.023
+				},
+				{
+					"term": "individuals",
+					"probability": 0.023
+				},
+				{
+					"term": "good",
+					"probability": 0.023
+				}
+			]
+		]
+	},
+	{
+		"SDS Forum on Town-Gown Issues: Tear Down that Wall?": [
+			[
+				{
+					"term": "students",
+					"probability": 0.061
+				},
+				{
+					"term": "campus",
+					"probability": 0.051
+				},
+				{
+					"term": "forum",
+					"probability": 0.029
+				},
+				{
+					"term": "residents",
+					"probability": 0.028
+				},
+				{
+					"term": "kuan",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "university",
+					"probability": 0.07
+				},
+				{
+					"term": "middletown",
+					"probability": 0.069
+				},
+				{
+					"term": "resources",
+					"probability": 0.027
+				},
+				{
+					"term": "relations",
+					"probability": 0.027
+				},
+				{
+					"term": "rosenthal",
+					"probability": 0.023
+				}
+			]
+		]
+	},
+	{
+		"Pernick and Carlin Form New Outreach Committee": [
+			[
+				{
+					"term": "university",
+					"probability": 0.085
+				},
+				{
+					"term": "president",
+					"probability": 0.042
+				},
+				{
+					"term": "pernick",
+					"probability": 0.042
+				},
+				{
+					"term": "carlin",
+					"probability": 0.042
+				},
+				{
+					"term": "administrators",
+					"probability": 0.04
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.064
+				},
+				{
+					"term": "committee",
+					"probability": 0.062
+				},
+				{
+					"term": "meet",
+					"probability": 0.06
+				},
+				{
+					"term": "members",
+					"probability": 0.056
+				},
+				{
+					"term": "discuss",
+					"probability": 0.05
+				}
+			]
+		]
+	},
+	{
+		"MPD Intensifies Enforcement": [
+			[
+				{
+					"term": "grant",
+					"probability": 0.053
+				},
+				{
+					"term": "laws",
+					"probability": 0.038
+				},
+				{
+					"term": "students",
+					"probability": 0.033
+				},
+				{
+					"term": "enforce",
+					"probability": 0.029
+				},
+				{
+					"term": "drinking",
+					"probability": 0.028
+				}
+			],
+			[
+				{
+					"term": "alcohol",
+					"probability": 0.066
+				},
+				{
+					"term": "minors",
+					"probability": 0.055
+				},
+				{
+					"term": "provider",
+					"probability": 0.028
+				},
+				{
+					"term": "middletown",
+					"probability": 0.022
+				}
+			]
+		]
+	},
+	{
+		"Two Years In, Roth Looks Back": [
+			[
+				{
+					"term": "wesleyan",
+					"probability": 0.037
+				},
+				{
+					"term": "people",
+					"probability": 0.036
+				},
+				{
+					"term": "creative",
+					"probability": 0.022
+				},
+				{
+					"term": "college",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.059
+				},
+				{
+					"term": "years",
+					"probability": 0.041
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.038
+				},
+				{
+					"term": "time",
+					"probability": 0.025
+				}
+			]
+		]
+	},
+	{
+		"Chung on Fashion: Getting Mad": [
+			[
+				{
+					"term": "men",
+					"probability": 0.044
+				},
+				{
+					"term": "mad",
+					"probability": 0.029
+				},
+				{
+					"term": "costume",
+					"probability": 0.021
+				},
+				{
+					"term": "vintage",
+					"probability": 0.02
+				},
+				{
+					"term": "bryant",
+					"probability": 0.02
+				}
+			],
+			[
+				{
+					"term": "fashion",
+					"probability": 0.025
+				},
+				{
+					"term": "drapers",
+					"probability": 0.025
+				}
+			]
+		]
+	},
+	{
+		"Battle in the Chapel: Middletown Mayoral Candidates Duke It Out On Campus": [
+			[
+				{
+					"term": "giuliano",
+					"probability": 0.07
+				},
+				{
+					"term": "citys",
+					"probability": 0.042
+				},
+				{
+					"term": "future",
+					"probability": 0.027
+				},
+				{
+					"term": "students",
+					"probability": 0.026
+				},
+				{
+					"term": "public",
+					"probability": 0.026
+				}
+			],
+			[
+				{
+					"term": "middletowns",
+					"probability": 0.055
+				},
+				{
+					"term": "drew",
+					"probability": 0.055
+				},
+				{
+					"term": "candidates",
+					"probability": 0.043
+				},
+				{
+					"term": "university",
+					"probability": 0.027
+				},
+				{
+					"term": "police",
+					"probability": 0.027
+				}
+			]
+		]
+	},
+	{
+		"Cardinal’s Night on Main Street": [
+			[
+				{
+					"term": "coco",
+					"probability": 0.055
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.045
+				},
+				{
+					"term": "feature",
+					"probability": 0.045
+				},
+				{
+					"term": "residents",
+					"probability": 0.03
+				},
+				{
+					"term": "stone",
+					"probability": 0.023
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.09
+				},
+				{
+					"term": "event",
+					"probability": 0.072
+				},
+				{
+					"term": "street",
+					"probability": 0.068
+				},
+				{
+					"term": "main",
+					"probability": 0.068
+				},
+				{
+					"term": "middletown",
+					"probability": 0.042
+				}
+			]
+		]
+	},
+	{
+		"Giuliano Beats Drew, Begins Third Term as Mayor": [
+			[
+				{
+					"term": "giuliano",
+					"probability": 0.066
+				},
+				{
+					"term": "drew",
+					"probability": 0.06
+				},
+				{
+					"term": "city",
+					"probability": 0.045
+				},
+				{
+					"term": "turnout",
+					"probability": 0.04
+				},
+				{
+					"term": "voters",
+					"probability": 0.037
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.06
+				},
+				{
+					"term": "votes",
+					"probability": 0.05
+				},
+				{
+					"term": "middletown",
+					"probability": 0.049
+				},
+				{
+					"term": "years",
+					"probability": 0.031
+				},
+				{
+					"term": "registered",
+					"probability": 0.031
+				}
+			]
+		]
+	},
+	{
+		"Become a Part of a Living Legacy": [
+			[
+				{
+					"term": "students",
+					"probability": 0.086
+				},
+				{
+					"term": "award",
+					"probability": 0.057
+				},
+				{
+					"term": "peter",
+					"probability": 0.036
+				},
+				{
+					"term": "morgansternclarren",
+					"probability": 0.036
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.034
+				}
+			],
+			[
+				{
+					"term": "work",
+					"probability": 0.056
+				},
+				{
+					"term": "service",
+					"probability": 0.037
+				},
+				{
+					"term": "public",
+					"probability": 0.037
+				},
+				{
+					"term": "person",
+					"probability": 0.037
+				},
+				{
+					"term": "harder",
+					"probability": 0.028
+				}
+			]
+		]
+	},
+	{
+		"Mytheology (Wesleyan Viewed From the Right…and the West Coast): A Joint Partnership": [
+			[
+				{
+					"term": "years",
+					"probability": 0.029
+				},
+				{
+					"term": "wsa",
+					"probability": 0.029
+				}
+			],
+			[
+				{
+					"term": "joint",
+					"probability": 0.047
+				},
+				{
+					"term": "student",
+					"probability": 0.037
+				},
+				{
+					"term": "election",
+					"probability": 0.034
+				}
+			]
+		]
+	},
+	{
+		"New Certificate To Encourge Civic Engagement Among Students": [
+			[
+				{
+					"term": "service",
+					"probability": 0.04
+				},
+				{
+					"term": "director",
+					"probability": 0.04
+				},
+				{
+					"term": "community",
+					"probability": 0.035
+				},
+				{
+					"term": "faculty",
+					"probability": 0.034
+				},
+				{
+					"term": "certificate",
+					"probability": 0.033
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.067
+				},
+				{
+					"term": "engagement",
+					"probability": 0.057
+				},
+				{
+					"term": "civic",
+					"probability": 0.053
+				},
+				{
+					"term": "proposal",
+					"probability": 0.029
+				},
+				{
+					"term": "committee",
+					"probability": 0.026
+				}
+			]
+		]
+	},
+	{
+		"Three Years In, Roth Looks Back": [
+			[
+				{
+					"term": "students",
+					"probability": 0.047
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.045
+				},
+				{
+					"term": "work",
+					"probability": 0.025
+				},
+				{
+					"term": "faculty",
+					"probability": 0.025
+				},
+				{
+					"term": "people",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "years",
+					"probability": 0.035
+				},
+				{
+					"term": "university",
+					"probability": 0.032
+				},
+				{
+					"term": "build",
+					"probability": 0.03
+				},
+				{
+					"term": "recession",
+					"probability": 0.022
+				},
+				{
+					"term": "president",
+					"probability": 0.021
+				}
+			]
+		]
+	},
+	{
+		"Africa for Africans: Thoughts on Humanitarian Work": [
+			[
+				{
+					"term": "organizations",
+					"probability": 0.09
+				},
+				{
+					"term": "communities",
+					"probability": 0.057
+				},
+				{
+					"term": "working",
+					"probability": 0.04
+				},
+				{
+					"term": "locals",
+					"probability": 0.029
+				},
+				{
+					"term": "slums",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "africa",
+					"probability": 0.08
+				},
+				{
+					"term": "people",
+					"probability": 0.051
+				},
+				{
+					"term": "african",
+					"probability": 0.038
+				},
+				{
+					"term": "talk",
+					"probability": 0.022
+				},
+				{
+					"term": "problems",
+					"probability": 0.022
+				}
+			]
+		]
+	},
+	{
+		"A Wesleyan Introduction to Middletown’s Historic Past": [
+			[
+				{
+					"term": "middletown",
+					"probability": 0.09
+				},
+				{
+					"term": "wesleyans",
+					"probability": 0.063
+				},
+				{
+					"term": "students",
+					"probability": 0.044
+				},
+				{
+					"term": "years",
+					"probability": 0.038
+				},
+				{
+					"term": "1831",
+					"probability": 0.025
+				}
+			],
+			[
+				{
+					"term": "streets",
+					"probability": 0.043
+				},
+				{
+					"term": "middletown",
+					"probability": 0.041
+				},
+				{
+					"term": "town",
+					"probability": 0.037
+				},
+				{
+					"term": "connecticut",
+					"probability": 0.029
+				},
+				{
+					"term": "beauty",
+					"probability": 0.029
+				}
+			]
+		]
+	},
+	{
+		"10/10/10 in Middletown: Students Hit Streets to Fight Climate Change": [
+			[
+				{
+					"term": "student",
+					"probability": 0.034
+				},
+				{
+					"term": "101010",
+					"probability": 0.032
+				},
+				{
+					"term": "work",
+					"probability": 0.029
+				},
+				{
+					"term": "event",
+					"probability": 0.029
+				},
+				{
+					"term": "campaign",
+					"probability": 0.023
+				}
+			],
+			[
+				{
+					"term": "middletown",
+					"probability": 0.039
+				},
+				{
+					"term": "people",
+					"probability": 0.034
+				},
+				{
+					"term": "programs",
+					"probability": 0.027
+				},
+				{
+					"term": "doors",
+					"probability": 0.026
+				},
+				{
+					"term": "participant",
+					"probability": 0.025
+				}
+			]
+		]
+	},
+	{
+		"“9500 Liberty”": [
+			[
+				{
+					"term": "immigration",
+					"probability": 0.033
+				},
+				{
+					"term": "county",
+					"probability": 0.033
+				},
+				{
+					"term": "individual",
+					"probability": 0.024
+				},
+				{
+					"term": "william",
+					"probability": 0.02
+				},
+				{
+					"term": "residents",
+					"probability": 0.02
+				}
+			],
+			[
+				{
+					"term": "political",
+					"probability": 0.036
+				},
+				{
+					"term": "truth",
+					"probability": 0.031
+				},
+				{
+					"term": "theory",
+					"probability": 0.026
+				},
+				{
+					"term": "engaging",
+					"probability": 0.021
+				},
+				{
+					"term": "dialogue",
+					"probability": 0.021
+				}
+			]
+		]
+	},
+	{
+		"Support the CPE Re-Approval": [
+			[
+				{
+					"term": "student",
+					"probability": 0.072
+				},
+				{
+					"term": "program",
+					"probability": 0.061
+				},
+				{
+					"term": "commitment",
+					"probability": 0.039
+				},
+				{
+					"term": "cheshire",
+					"probability": 0.028
+				},
+				{
+					"term": "tutor",
+					"probability": 0.024
+				}
+			],
+			[
+				{
+					"term": "wesleyans",
+					"probability": 0.068
+				},
+				{
+					"term": "education",
+					"probability": 0.042
+				},
+				{
+					"term": "year",
+					"probability": 0.026
+				},
+				{
+					"term": "prison",
+					"probability": 0.026
+				},
+				{
+					"term": "faculty",
+					"probability": 0.025
+				}
+			]
+		]
+	},
+	{
+		"Students, Professors, and Middletown Residents Unite in 5K for Brighter Dawns": [
+			[
+				{
+					"term": "interfaith",
+					"probability": 0.035
+				},
+				{
+					"term": "brunch",
+					"probability": 0.028
+				},
+				{
+					"term": "president",
+					"probability": 0.021
+				},
+				{
+					"term": "event",
+					"probability": 0.021
+				},
+				{
+					"term": "5k",
+					"probability": 0.021
+				}
+			],
+			[
+				{
+					"term": "dawns",
+					"probability": 0.057
+				},
+				{
+					"term": "brighter",
+					"probability": 0.057
+				},
+				{
+					"term": "communities",
+					"probability": 0.054
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.035
+				},
+				{
+					"term": "students",
+					"probability": 0.023
+				}
+			]
+		]
+	},
+	{
+		"Students Rally in Middletown, New Haven, For Climate Awareness": [
+			[
+				{
+					"term": "people",
+					"probability": 0.043
+				},
+				{
+					"term": "day",
+					"probability": 0.043
+				},
+				{
+					"term": "community",
+					"probability": 0.043
+				},
+				{
+					"term": "moving",
+					"probability": 0.026
+				},
+				{
+					"term": "excited",
+					"probability": 0.026
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.037
+				},
+				{
+					"term": "sustainability",
+					"probability": 0.028
+				},
+				{
+					"term": "organized",
+					"probability": 0.028
+				},
+				{
+					"term": "middletown",
+					"probability": 0.028
+				},
+				{
+					"term": "haven",
+					"probability": 0.028
+				}
+			]
+		]
+	},
+	{
+		"Civic Engagement Certificate Encourages Community Involvement": [
+			[
+				{
+					"term": "theater",
+					"probability": 0.05
+				},
+				{
+					"term": "incarcerated",
+					"probability": 0.036
+				},
+				{
+					"term": "professor",
+					"probability": 0.035
+				},
+				{
+					"term": "jenkins",
+					"probability": 0.035
+				},
+				{
+					"term": "individuals",
+					"probability": 0.035
+				}
+			],
+			[
+				{
+					"term": "engagement",
+					"probability": 0.067
+				},
+				{
+					"term": "civic",
+					"probability": 0.067
+				},
+				{
+					"term": "certificate",
+					"probability": 0.039
+				},
+				{
+					"term": "students",
+					"probability": 0.038
+				},
+				{
+					"term": "activity",
+					"probability": 0.032
+				}
+			]
+		]
+	},
+	{
+		"Campaign Finance Reform a Necessity": [
+			[
+				{
+					"term": "political",
+					"probability": 0.061
+				},
+				{
+					"term": "corporate",
+					"probability": 0.038
+				},
+				{
+					"term": "citizens",
+					"probability": 0.037
+				},
+				{
+					"term": "elections",
+					"probability": 0.033
+				},
+				{
+					"term": "represent",
+					"probability": 0.032
+				}
+			],
+			[
+				{
+					"term": "reform",
+					"probability": 0.043
+				},
+				{
+					"term": "campaign",
+					"probability": 0.039
+				},
+				{
+					"term": "government",
+					"probability": 0.029
+				},
+				{
+					"term": "finance",
+					"probability": 0.029
+				},
+				{
+					"term": "people",
+					"probability": 0.026
+				}
+			]
+		]
+	},
+	{
+		"Middletown Lingerie Store Proves a Good Fit": [
+			[
+				{
+					"term": "lingerie",
+					"probability": 0.04
+				},
+				{
+					"term": "items",
+					"probability": 0.027
+				},
+				{
+					"term": "tinas",
+					"probability": 0.025
+				},
+				{
+					"term": "correspondent",
+					"probability": 0.025
+				},
+				{
+					"term": "anonymous",
+					"probability": 0.025
+				}
+			],
+			[
+				{
+					"term": "lun",
+					"probability": 0.027
+				},
+				{
+					"term": "student",
+					"probability": 0.024
+				},
+				{
+					"term": "parties",
+					"probability": 0.023
+				}
+			]
+		]
+	},
+	{
+		"Green Party Presidential Candidate Jill Stein Comes to Middletown": [
+			[
+				{
+					"term": "ballot",
+					"probability": 0.052
+				},
+				{
+					"term": "levin",
+					"probability": 0.046
+				},
+				{
+					"term": "stein",
+					"probability": 0.041
+				},
+				{
+					"term": "states",
+					"probability": 0.041
+				},
+				{
+					"term": "signatures",
+					"probability": 0.041
+				}
+			],
+			[
+				{
+					"term": "greens",
+					"probability": 0.084
+				},
+				{
+					"term": "campus",
+					"probability": 0.044
+				},
+				{
+					"term": "student",
+					"probability": 0.042
+				},
+				{
+					"term": "college",
+					"probability": 0.042
+				},
+				{
+					"term": "middletown",
+					"probability": 0.041
+				}
+			]
+		]
+	},
+	{
+		"Civic Engagement Fellowship Will Launch In July": [
+			[
+				{
+					"term": "fellowship",
+					"probability": 0.073
+				},
+				{
+					"term": "lechowicz",
+					"probability": 0.035
+				},
+				{
+					"term": "year",
+					"probability": 0.031
+				},
+				{
+					"term": "excited",
+					"probability": 0.029
+				},
+				{
+					"term": "rosenthal",
+					"probability": 0.023
+				}
+			],
+			[
+				{
+					"term": "center",
+					"probability": 0.065
+				},
+				{
+					"term": "lechowicz",
+					"probability": 0.048
+				},
+				{
+					"term": "engagement",
+					"probability": 0.046
+				},
+				{
+					"term": "program",
+					"probability": 0.034
+				},
+				{
+					"term": "work",
+					"probability": 0.033
+				}
+			]
+		]
+	},
+	{
+		"Patricelli Center Puts Social Change in Career Path": [
+			[
+				{
+					"term": "center",
+					"probability": 0.076
+				},
+				{
+					"term": "patricelli",
+					"probability": 0.043
+				},
+				{
+					"term": "social",
+					"probability": 0.042
+				},
+				{
+					"term": "student",
+					"probability": 0.033
+				},
+				{
+					"term": "gagnon",
+					"probability": 0.032
+				}
+			],
+			[
+				{
+					"term": "student",
+					"probability": 0.055
+				},
+				{
+					"term": "worked",
+					"probability": 0.034
+				},
+				{
+					"term": "passion",
+					"probability": 0.02
+				}
+			]
+		]
+	},
+	{
+		"I’ll Donate When Wesleyan Earns My Donation": [
+			[
+				{
+					"term": "university",
+					"probability": 0.035
+				},
+				{
+					"term": "donations",
+					"probability": 0.023
+				}
+			],
+			[
+				{
+					"term": "wesleyan",
+					"probability": 0.038
+				},
+				{
+					"term": "values",
+					"probability": 0.025
+				},
+				{
+					"term": "community",
+					"probability": 0.021
+				},
+				{
+					"term": "commit",
+					"probability": 0.021
+				}
+			]
+		]
+	},
+	{
+		"Student Political Groups Battle Voting Apathy": [
+			[
+				{
+					"term": "wesleyan",
+					"probability": 0.034
+				},
+				{
+					"term": "linden",
+					"probability": 0.031
+				},
+				{
+					"term": "student",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "student",
+					"probability": 0.073
+				},
+				{
+					"term": "vote",
+					"probability": 0.053
+				},
+				{
+					"term": "people",
+					"probability": 0.029
+				},
+				{
+					"term": "groups",
+					"probability": 0.024
+				},
+				{
+					"term": "political",
+					"probability": 0.021
+				}
+			]
+		]
+	},
+	{
+		"University Will Not Relocate Bookstore": [
+			[
+				{
+					"term": "decision",
+					"probability": 0.059
+				},
+				{
+					"term": "president",
+					"probability": 0.03
+				},
+				{
+					"term": "faculty",
+					"probability": 0.03
+				},
+				{
+					"term": "thorndike",
+					"probability": 0.029
+				},
+				{
+					"term": "café",
+					"probability": 0.029
+				}
+			],
+			[
+				{
+					"term": "bookstore",
+					"probability": 0.053
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.047
+				},
+				{
+					"term": "communities",
+					"probability": 0.047
+				},
+				{
+					"term": "university",
+					"probability": 0.046
+				},
+				{
+					"term": "washington",
+					"probability": 0.036
+				}
+			]
+		]
+	},
+	{
+		"CCP Launches Campaign to Highlight Town-Gown Collaborations": [
+			[
+				{
+					"term": "students",
+					"probability": 0.078
+				},
+				{
+					"term": "community",
+					"probability": 0.068
+				},
+				{
+					"term": "office",
+					"probability": 0.041
+				},
+				{
+					"term": "center",
+					"probability": 0.038
+				},
+				{
+					"term": "group",
+					"probability": 0.033
+				}
+			],
+			[
+				{
+					"term": "campaign",
+					"probability": 0.073
+				},
+				{
+					"term": "middletown",
+					"probability": 0.065
+				},
+				{
+					"term": "university",
+					"probability": 0.062
+				},
+				{
+					"term": "partnerships",
+					"probability": 0.057
+				},
+				{
+					"term": "pellegrino",
+					"probability": 0.041
+				}
+			]
+		]
+	},
+	{
+		"University Announces $400 Million “This is Why” Campaign": [
+			[
+				{
+					"term": "university",
+					"probability": 0.068
+				},
+				{
+					"term": "money",
+					"probability": 0.053
+				},
+				{
+					"term": "million",
+					"probability": 0.043
+				},
+				{
+					"term": "donations",
+					"probability": 0.042
+				},
+				{
+					"term": "raise",
+					"probability": 0.036
+				}
+			],
+			[
+				{
+					"term": "campaign",
+					"probability": 0.067
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.058
+				},
+				{
+					"term": "roth",
+					"probability": 0.029
+				},
+				{
+					"term": "fundraising",
+					"probability": 0.029
+				},
+				{
+					"term": "year",
+					"probability": 0.025
+				}
+			]
+		]
+	},
+	{
+		"Students Assemble for Social Justice Leadership Conference": [
+			[
+				{
+					"term": "sessions",
+					"probability": 0.041
+				},
+				{
+					"term": "smith",
+					"probability": 0.036
+				},
+				{
+					"term": "conference",
+					"probability": 0.031
+				},
+				{
+					"term": "leadership",
+					"probability": 0.023
+				},
+				{
+					"term": "social",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "student",
+					"probability": 0.034
+				},
+				{
+					"term": "15",
+					"probability": 0.026
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.025
+				},
+				{
+					"term": "intern",
+					"probability": 0.024
+				},
+				{
+					"term": "conference",
+					"probability": 0.021
+				}
+			]
+		]
+	},
+	{
+		"Impressionism, Fashion, and Modernity at Met Revitalizes an Old Age": [
+			[
+				{
+					"term": "painting",
+					"probability": 0.078
+				},
+				{
+					"term": "viewers",
+					"probability": 0.028
+				},
+				{
+					"term": "madame",
+					"probability": 0.023
+				},
+				{
+					"term": "charpentier",
+					"probability": 0.023
+				},
+				{
+					"term": "figure",
+					"probability": 0.02
+				}
+			],
+			[
+				{
+					"term": "exhibition",
+					"probability": 0.071
+				},
+				{
+					"term": "fashion",
+					"probability": 0.055
+				},
+				{
+					"term": "modernity",
+					"probability": 0.051
+				},
+				{
+					"term": "arts",
+					"probability": 0.021
+				}
+			]
+		]
+	},
+	{
+		"Chalk is Talk: Is Wesleyan’s Chalking Ban Illegal?": [
+			[
+				{
+					"term": "constitutional",
+					"probability": 0.058
+				},
+				{
+					"term": "state",
+					"probability": 0.053
+				},
+				{
+					"term": "speech",
+					"probability": 0.05
+				},
+				{
+					"term": "protections",
+					"probability": 0.038
+				},
+				{
+					"term": "private",
+					"probability": 0.034
+				}
+			],
+			[
+				{
+					"term": "speech",
+					"probability": 0.066
+				},
+				{
+					"term": "employee",
+					"probability": 0.047
+				},
+				{
+					"term": "protections",
+					"probability": 0.031
+				},
+				{
+					"term": "employer",
+					"probability": 0.025
+				},
+				{
+					"term": "3151q",
+					"probability": 0.021
+				}
+			]
+		]
+	},
+	{
+		"University to Host First Diversity Awards Ceremony": [
+			[
+				{
+					"term": "students",
+					"probability": 0.11
+				},
+				{
+					"term": "alumni",
+					"probability": 0.04
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.033
+				},
+				{
+					"term": "faculty",
+					"probability": 0.033
+				},
+				{
+					"term": "staff",
+					"probability": 0.026
+				}
+			],
+			[
+				{
+					"term": "gabriel",
+					"probability": 0.043
+				},
+				{
+					"term": "community",
+					"probability": 0.041
+				},
+				{
+					"term": "senior",
+					"probability": 0.036
+				},
+				{
+					"term": "pennant",
+					"probability": 0.036
+				},
+				{
+					"term": "university",
+					"probability": 0.03
+				}
+			]
+		]
+	},
+	{
+		"WesFest Events Not To Miss": [
+			[
+				{
+					"term": "wesleyan",
+					"probability": 0.046
+				},
+				{
+					"term": "film",
+					"probability": 0.033
+				},
+				{
+					"term": "study",
+					"probability": 0.025
+				},
+				{
+					"term": "center",
+					"probability": 0.025
+				},
+				{
+					"term": "room",
+					"probability": 0.023
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.043
+				},
+				{
+					"term": "years",
+					"probability": 0.029
+				},
+				{
+					"term": "group",
+					"probability": 0.026
+				},
+				{
+					"term": "campus",
+					"probability": 0.026
+				},
+				{
+					"term": "university",
+					"probability": 0.021
+				}
+			]
+		]
+	},
+	{
+		"Middletown May Day Events Unify Community": [
+			[
+				{
+					"term": "people",
+					"probability": 0.079
+				},
+				{
+					"term": "community",
+					"probability": 0.035
+				},
+				{
+					"term": "group",
+					"probability": 0.034
+				},
+				{
+					"term": "sorts",
+					"probability": 0.02
+				},
+				{
+					"term": "lot",
+					"probability": 0.02
+				}
+			],
+			[
+				{
+					"term": "community",
+					"probability": 0.056
+				},
+				{
+					"term": "middletown",
+					"probability": 0.035
+				},
+				{
+					"term": "street",
+					"probability": 0.025
+				},
+				{
+					"term": "included",
+					"probability": 0.02
+				},
+				{
+					"term": "day",
+					"probability": 0.02
+				}
+			]
+		]
+	},
+	{
+		"Pumpkin Fest Welcomes Autumn, Fosters Community": [
+			[
+				{
+					"term": "smoothies",
+					"probability": 0.026
+				},
+				{
+					"term": "booths",
+					"probability": 0.026
+				},
+				{
+					"term": "wasps",
+					"probability": 0.02
+				},
+				{
+					"term": "stage",
+					"probability": 0.02
+				},
+				{
+					"term": "bands",
+					"probability": 0.02
+				}
+			],
+			[
+				{
+					"term": "fest",
+					"probability": 0.054
+				},
+				{
+					"term": "people",
+					"probability": 0.048
+				},
+				{
+					"term": "pumpkin",
+					"probability": 0.043
+				},
+				{
+					"term": "farm",
+					"probability": 0.033
+				},
+				{
+					"term": "kids",
+					"probability": 0.027
+				}
+			]
+		]
+	},
+	{
+		"Community Group Branches Out With Middletown Garden Initiatives": [
+			[
+				{
+					"term": "garden",
+					"probability": 0.055
+				},
+				{
+					"term": "carter",
+					"probability": 0.031
+				},
+				{
+					"term": "planting",
+					"probability": 0.03
+				},
+				{
+					"term": "street",
+					"probability": 0.023
+				},
+				{
+					"term": "area",
+					"probability": 0.023
+				}
+			],
+			[
+				{
+					"term": "community",
+					"probability": 0.044
+				},
+				{
+					"term": "garden",
+					"probability": 0.038
+				},
+				{
+					"term": "mug",
+					"probability": 0.032
+				},
+				{
+					"term": "space",
+					"probability": 0.027
+				},
+				{
+					"term": "neat",
+					"probability": 0.027
+				}
+			]
+		]
+	},
+	{
+		"Back With A Vengeance: Art House Brings Creative Energy To Washington Street": [
+			[
+				{
+					"term": "house",
+					"probability": 0.084
+				},
+				{
+					"term": "art",
+					"probability": 0.048
+				}
+			],
+			[
+				{
+					"term": "art",
+					"probability": 0.082
+				},
+				{
+					"term": "house",
+					"probability": 0.071
+				},
+				{
+					"term": "students",
+					"probability": 0.031
+				},
+				{
+					"term": "gordon",
+					"probability": 0.03
+				}
+			]
+		]
+	},
+	{
+		"Office of Community Engagement Plans Alternative Spring Break": [
+			[
+				{
+					"term": "students",
+					"probability": 0.089
+				},
+				{
+					"term": "programs",
+					"probability": 0.068
+				},
+				{
+					"term": "tinoco",
+					"probability": 0.049
+				},
+				{
+					"term": "machiavelo",
+					"probability": 0.049
+				},
+				{
+					"term": "asb",
+					"probability": 0.038
+				}
+			],
+			[
+				{
+					"term": "trip",
+					"probability": 0.068
+				},
+				{
+					"term": "break",
+					"probability": 0.057
+				},
+				{
+					"term": "spring",
+					"probability": 0.052
+				},
+				{
+					"term": "alternative",
+					"probability": 0.042
+				},
+				{
+					"term": "community",
+					"probability": 0.031
+				}
+			]
+		]
+	},
+	{
+		"Students and Parents Attend Annual COE Symposium": [
+			[
+				{
+					"term": "rose",
+					"probability": 0.038
+				},
+				{
+					"term": "bird",
+					"probability": 0.038
+				},
+				{
+					"term": "lecturer",
+					"probability": 0.033
+				},
+				{
+					"term": "humans",
+					"probability": 0.033
+				},
+				{
+					"term": "animism",
+					"probability": 0.033
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.032
+				},
+				{
+					"term": "chernoff",
+					"probability": 0.025
+				},
+				{
+					"term": "symposium",
+					"probability": 0.023
+				}
+			]
+		]
+	},
+	{
+		"Middletown Potluck Bridges Community Through Social Events": [
+			[
+				{
+					"term": "wesleyan",
+					"probability": 0.062
+				},
+				{
+					"term": "students",
+					"probability": 0.047
+				},
+				{
+					"term": "community",
+					"probability": 0.026
+				},
+				{
+					"term": "ebstein",
+					"probability": 0.02
+				}
+			],
+			[
+				{
+					"term": "middletown",
+					"probability": 0.09
+				},
+				{
+					"term": "potluck",
+					"probability": 0.052
+				},
+				{
+					"term": "food",
+					"probability": 0.028
+				},
+				{
+					"term": "street",
+					"probability": 0.025
+				},
+				{
+					"term": "social",
+					"probability": 0.025
+				}
+			]
+		]
+	},
+	{
+		"Students, WesDEFs Address Issues in Wesleyan-Middletown Relations": [
+			[
+				{
+					"term": "campus",
+					"probability": 0.058
+				},
+				{
+					"term": "community",
+					"probability": 0.056
+				},
+				{
+					"term": "people",
+					"probability": 0.042
+				},
+				{
+					"term": "oza",
+					"probability": 0.029
+				},
+				{
+					"term": "engaged",
+					"probability": 0.025
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.077
+				},
+				{
+					"term": "middletown",
+					"probability": 0.052
+				},
+				{
+					"term": "university",
+					"probability": 0.039
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.029
+				},
+				{
+					"term": "relationship",
+					"probability": 0.026
+				}
+			]
+		]
+	},
+	{
+		"Open Letter to President Roth": [
+			[
+				{
+					"term": "calls",
+					"probability": 0.024
+				},
+				{
+					"term": "students",
+					"probability": 0.021
+				}
+			],
+			[
+				{
+					"term": "thanksgiving",
+					"probability": 0.024
+				},
+				{
+					"term": "day",
+					"probability": 0.02
+				}
+			]
+		]
+	},
+	{
+		"Startup Showcase To Feature Alumni Work": [
+			[
+				{
+					"term": "valenti",
+					"probability": 0.03
+				},
+				{
+					"term": "project",
+					"probability": 0.03
+				},
+				{
+					"term": "people",
+					"probability": 0.03
+				},
+				{
+					"term": "uplift",
+					"probability": 0.025
+				},
+				{
+					"term": "founder",
+					"probability": 0.025
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.045
+				},
+				{
+					"term": "job",
+					"probability": 0.034
+				},
+				{
+					"term": "connect",
+					"probability": 0.024
+				},
+				{
+					"term": "give",
+					"probability": 0.021
+				},
+				{
+					"term": "akoi",
+					"probability": 0.021
+				}
+			]
+		]
+	},
+	{
+		"University Creates Equity Compliance Director Position": [
+			[
+				{
+					"term": "students",
+					"probability": 0.044
+				},
+				{
+					"term": "candidates",
+					"probability": 0.034
+				},
+				{
+					"term": "spoke",
+					"probability": 0.024
+				},
+				{
+					"term": "deal",
+					"probability": 0.024
+				},
+				{
+					"term": "importance",
+					"probability": 0.023
+				}
+			],
+			[
+				{
+					"term": "title",
+					"probability": 0.09
+				},
+				{
+					"term": "ix",
+					"probability": 0.053
+				},
+				{
+					"term": "vii",
+					"probability": 0.037
+				},
+				{
+					"term": "candidates",
+					"probability": 0.025
+				},
+				{
+					"term": "training",
+					"probability": 0.022
+				}
+			]
+		]
+	},
+	{
+		"In Stitches: Pamela Roose Knits Close Community": [
+			[
+				{
+					"term": "sit",
+					"probability": 0.03
+				},
+				{
+					"term": "yarn",
+					"probability": 0.028
+				},
+				{
+					"term": "people",
+					"probability": 0.026
+				},
+				{
+					"term": "luxury",
+					"probability": 0.022
+				},
+				{
+					"term": "knitting",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "knitting",
+					"probability": 0.061
+				},
+				{
+					"term": "steele",
+					"probability": 0.049
+				},
+				{
+					"term": "pamela",
+					"probability": 0.032
+				},
+				{
+					"term": "store",
+					"probability": 0.03
+				},
+				{
+					"term": "roose",
+					"probability": 0.027
+				}
+			]
+		]
+	},
+	{
+		"The Remote Vote: Absentee, But Not Absentminded": [
+			[
+				{
+					"term": "elections",
+					"probability": 0.084
+				},
+				{
+					"term": "students",
+					"probability": 0.034
+				},
+				{
+					"term": "polls",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "voting",
+					"probability": 0.098
+				},
+				{
+					"term": "states",
+					"probability": 0.061
+				},
+				{
+					"term": "registered",
+					"probability": 0.044
+				},
+				{
+					"term": "connecticut",
+					"probability": 0.043
+				},
+				{
+					"term": "elections",
+					"probability": 0.04
+				}
+			]
+		]
+	},
+	{
+		"Who Wore it Wes: Monica Kornis ’15": [
+			[
+				{
+					"term": "style",
+					"probability": 0.084
+				},
+				{
+					"term": "people",
+					"probability": 0.071
+				},
+				{
+					"term": "mk",
+					"probability": 0.047
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.043
+				},
+				{
+					"term": "inspire",
+					"probability": 0.042
+				}
+			],
+			[
+				{
+					"term": "wearing",
+					"probability": 0.044
+				},
+				{
+					"term": "kind",
+					"probability": 0.038
+				},
+				{
+					"term": "missouri",
+					"probability": 0.036
+				},
+				{
+					"term": "guess",
+					"probability": 0.034
+				},
+				{
+					"term": "interested",
+					"probability": 0.032
+				}
+			]
+		]
+	},
+	{
+		"A Belated Holiday Gift to Alma Mater: A Set of New Year’s Resolutions": [
+			[
+				{
+					"term": "student",
+					"probability": 0.066
+				},
+				{
+					"term": "academic",
+					"probability": 0.029
+				},
+				{
+					"term": "year",
+					"probability": 0.023
+				},
+				{
+					"term": "values",
+					"probability": 0.023
+				},
+				{
+					"term": "class",
+					"probability": 0.023
+				}
+			],
+			[
+				{
+					"term": "wesleyan",
+					"probability": 0.076
+				},
+				{
+					"term": "safety",
+					"probability": 0.039
+				},
+				{
+					"term": "student",
+					"probability": 0.037
+				},
+				{
+					"term": "social",
+					"probability": 0.032
+				},
+				{
+					"term": "campus",
+					"probability": 0.029
+				}
+			]
+		]
+	},
+	{
+		"Students and Faculty Discuss Unpaid Internships at First Allbritton Talk": [
+			[
+				{
+					"term": "students",
+					"probability": 0.076
+				},
+				{
+					"term": "capron",
+					"probability": 0.066
+				},
+				{
+					"term": "life",
+					"probability": 0.046
+				},
+				{
+					"term": "series",
+					"probability": 0.04
+				},
+				{
+					"term": "public",
+					"probability": 0.04
+				}
+			],
+			[
+				{
+					"term": "topics",
+					"probability": 0.067
+				},
+				{
+					"term": "conversations",
+					"probability": 0.049
+				},
+				{
+					"term": "people",
+					"probability": 0.047
+				},
+				{
+					"term": "unpaid",
+					"probability": 0.041
+				},
+				{
+					"term": "internships",
+					"probability": 0.04
+				}
+			]
+		]
+	},
+	{
+		"Carnegie Foundation Awards University 2015 Community Engagement Classification": [
+			[
+				{
+					"term": "engagement",
+					"probability": 0.05
+				},
+				{
+					"term": "community",
+					"probability": 0.044
+				},
+				{
+					"term": "partnership",
+					"probability": 0.033
+				},
+				{
+					"term": "university",
+					"probability": 0.03
+				},
+				{
+					"term": "institutions",
+					"probability": 0.03
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.081
+				},
+				{
+					"term": "community",
+					"probability": 0.066
+				},
+				{
+					"term": "engagement",
+					"probability": 0.043
+				},
+				{
+					"term": "involved",
+					"probability": 0.039
+				},
+				{
+					"term": "middletown",
+					"probability": 0.033
+				}
+			]
+		]
+	},
+	{
+		"Scholars in Action Host Enrichment Days": [
+			[
+				{
+					"term": "university",
+					"probability": 0.045
+				},
+				{
+					"term": "workshops",
+					"probability": 0.027
+				},
+				{
+					"term": "include",
+					"probability": 0.025
+				},
+				{
+					"term": "engage",
+					"probability": 0.025
+				},
+				{
+					"term": "capron",
+					"probability": 0.024
+				}
+			],
+			[
+				{
+					"term": "student",
+					"probability": 0.068
+				},
+				{
+					"term": "days",
+					"probability": 0.063
+				},
+				{
+					"term": "schools",
+					"probability": 0.051
+				},
+				{
+					"term": "group",
+					"probability": 0.046
+				},
+				{
+					"term": "enrichment",
+					"probability": 0.046
+				}
+			]
+		]
+	},
+	{
+		"Haffner ’76 Reflects on Life as a “Sexologist Minister”": [
+			[
+				{
+					"term": "haffner",
+					"probability": 0.055
+				},
+				{
+					"term": "sexuality",
+					"probability": 0.031
+				},
+				{
+					"term": "womens",
+					"probability": 0.03
+				},
+				{
+					"term": "organizations",
+					"probability": 0.022
+				},
+				{
+					"term": "education",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "people",
+					"probability": 0.029
+				},
+				{
+					"term": "importance",
+					"probability": 0.025
+				},
+				{
+					"term": "haffner",
+					"probability": 0.025
+				},
+				{
+					"term": "issues",
+					"probability": 0.021
+				}
+			]
+		]
+	},
+	{
+		"Broccoli City Forum Discusses Sustainability Issues, Projects": [
+			[
+				{
+					"term": "environmental",
+					"probability": 0.038
+				},
+				{
+					"term": "fire",
+					"probability": 0.03
+				},
+				{
+					"term": "feet",
+					"probability": 0.03
+				},
+				{
+					"term": "farias",
+					"probability": 0.03
+				},
+				{
+					"term": "15",
+					"probability": 0.03
+				}
+			],
+			[
+				{
+					"term": "projected",
+					"probability": 0.061
+				},
+				{
+					"term": "group",
+					"probability": 0.054
+				},
+				{
+					"term": "sustainability",
+					"probability": 0.053
+				},
+				{
+					"term": "student",
+					"probability": 0.041
+				},
+				{
+					"term": "city",
+					"probability": 0.04
+				}
+			]
+		]
+	},
+	{
+		"Princeton Review Ranks University #1 Impact School": [
+			[
+				{
+					"term": "social",
+					"probability": 0.063
+				},
+				{
+					"term": "programs",
+					"probability": 0.055
+				},
+				{
+					"term": "student",
+					"probability": 0.049
+				},
+				{
+					"term": "alumni",
+					"probability": 0.04
+				},
+				{
+					"term": "center",
+					"probability": 0.034
+				}
+			],
+			[
+				{
+					"term": "student",
+					"probability": 0.06
+				},
+				{
+					"term": "impact",
+					"probability": 0.049
+				},
+				{
+					"term": "schools",
+					"probability": 0.046
+				},
+				{
+					"term": "university",
+					"probability": 0.031
+				},
+				{
+					"term": "ranked",
+					"probability": 0.03
+				}
+			]
+		]
+	},
+	{
+		"The Argus Welcomes New Tenure-Track Faculty": [
+			[
+				{
+					"term": "excite",
+					"probability": 0.033
+				},
+				{
+					"term": "projects",
+					"probability": 0.031
+				},
+				{
+					"term": "work",
+					"probability": 0.025
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.032
+				},
+				{
+					"term": "enjoy",
+					"probability": 0.026
+				},
+				{
+					"term": "teaching",
+					"probability": 0.025
+				}
+			]
+		]
+	},
+	{
+		"Professor’s Bookshelf: John Finn": [
+			[
+				{
+					"term": "constitution",
+					"probability": 0.044
+				},
+				{
+					"term": "omelets",
+					"probability": 0.039
+				},
+				{
+					"term": "time",
+					"probability": 0.025
+				},
+				{
+					"term": "french",
+					"probability": 0.025
+				},
+				{
+					"term": "reading",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "law",
+					"probability": 0.052
+				},
+				{
+					"term": "degree",
+					"probability": 0.043
+				},
+				{
+					"term": "school",
+					"probability": 0.033
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.024
+				},
+				{
+					"term": "culinary",
+					"probability": 0.024
+				}
+			]
+		]
+	},
+	{
+		"University’s Greek Community Hosts Inaugural Harvest Festival": [
+			[
+				{
+					"term": "game",
+					"probability": 0.056
+				},
+				{
+					"term": "festival",
+					"probability": 0.05
+				},
+				{
+					"term": "reed",
+					"probability": 0.04
+				},
+				{
+					"term": "psi",
+					"probability": 0.029
+				},
+				{
+					"term": "members",
+					"probability": 0.023
+				}
+			],
+			[
+				{
+					"term": "community",
+					"probability": 0.1
+				},
+				{
+					"term": "greek",
+					"probability": 0.073
+				},
+				{
+					"term": "event",
+					"probability": 0.046
+				},
+				{
+					"term": "life",
+					"probability": 0.043
+				},
+				{
+					"term": "time",
+					"probability": 0.027
+				}
+			]
+		]
+	},
+	{
+		"Kim ’02 Leads Crowdfunding Bootcamp": [
+			[
+				{
+					"term": "product",
+					"probability": 0.047
+				},
+				{
+					"term": "kim",
+					"probability": 0.041
+				},
+				{
+					"term": "watch",
+					"probability": 0.024
+				}
+			],
+			[
+				{
+					"term": "crowdfunding",
+					"probability": 0.035
+				},
+				{
+					"term": "campaign",
+					"probability": 0.035
+				},
+				{
+					"term": "kim",
+					"probability": 0.033
+				},
+				{
+					"term": "money",
+					"probability": 0.026
+				},
+				{
+					"term": "kickstarter",
+					"probability": 0.026
+				}
+			]
+		]
+	},
+	{
+		"WSA Approves Legislative Pathway for Student Petitions": [
+			[
+				{
+					"term": "student",
+					"probability": 0.064
+				},
+				{
+					"term": "resolution",
+					"probability": 0.043
+				},
+				{
+					"term": "senate",
+					"probability": 0.031
+				},
+				{
+					"term": "number",
+					"probability": 0.031
+				},
+				{
+					"term": "meeting",
+					"probability": 0.03
+				}
+			],
+			[
+				{
+					"term": "wsa's",
+					"probability": 0.09
+				},
+				{
+					"term": "resolution",
+					"probability": 0.086
+				},
+				{
+					"term": "student",
+					"probability": 0.039
+				},
+				{
+					"term": "transparency",
+					"probability": 0.034
+				},
+				{
+					"term": "proposals",
+					"probability": 0.032
+				}
+			]
+		]
+	},
+	{
+		"Douglas Cannon Society, Demystified": [
+			[
+				{
+					"term": "society",
+					"probability": 0.086
+				},
+				{
+					"term": "cannon",
+					"probability": 0.075
+				},
+				{
+					"term": "douglas",
+					"probability": 0.037
+				},
+				{
+					"term": "members",
+					"probability": 0.03
+				},
+				{
+					"term": "wesunity",
+					"probability": 0.028
+				}
+			],
+			[
+				{
+					"term": "cannon",
+					"probability": 0.08
+				},
+				{
+					"term": "university",
+					"probability": 0.048
+				},
+				{
+					"term": "group",
+					"probability": 0.032
+				}
+			]
+		]
+	},
+	{
+		"From Eclectic to Berkshires: Tatge and Her University Legacy": [
+			[
+				{
+					"term": "student",
+					"probability": 0.089
+				},
+				{
+					"term": "tatge",
+					"probability": 0.038
+				},
+				{
+					"term": "engagement",
+					"probability": 0.024
+				},
+				{
+					"term": "department",
+					"probability": 0.02
+				}
+			],
+			[
+				{
+					"term": "wesleyans",
+					"probability": 0.064
+				},
+				{
+					"term": "dance",
+					"probability": 0.063
+				},
+				{
+					"term": "arts",
+					"probability": 0.059
+				},
+				{
+					"term": "tatge",
+					"probability": 0.057
+				},
+				{
+					"term": "university",
+					"probability": 0.022
+				}
+			]
+		]
+	},
+	{
+		"The Future of a Wes Resource Center": [
+			[
+				{
+					"term": "center",
+					"probability": 0.091
+				},
+				{
+					"term": "students",
+					"probability": 0.078
+				},
+				{
+					"term": "multicultural",
+					"probability": 0.038
+				},
+				{
+					"term": "resource",
+					"probability": 0.031
+				},
+				{
+					"term": "college",
+					"probability": 0.029
+				}
+			],
+			[
+				{
+					"term": "task",
+					"probability": 0.051
+				},
+				{
+					"term": "force",
+					"probability": 0.044
+				},
+				{
+					"term": "equity",
+					"probability": 0.037
+				},
+				{
+					"term": "report",
+					"probability": 0.031
+				},
+				{
+					"term": "inclusion",
+					"probability": 0.03
+				}
+			]
+		]
+	},
+	{
+		"Age Beyond Numbers": [
+			[
+				{
+					"term": "age",
+					"probability": 0.064
+				},
+				{
+					"term": "space",
+					"probability": 0.04
+				},
+				{
+					"term": "engage",
+					"probability": 0.03
+				},
+				{
+					"term": "social",
+					"probability": 0.021
+				},
+				{
+					"term": "health",
+					"probability": 0.021
+				}
+			],
+			[
+				{
+					"term": "community",
+					"probability": 0.045
+				},
+				{
+					"term": "residents",
+					"probability": 0.04
+				},
+				{
+					"term": "senior",
+					"probability": 0.03
+				},
+				{
+					"term": "living",
+					"probability": 0.03
+				},
+				{
+					"term": "center",
+					"probability": 0.023
+				}
+			]
+		]
+	},
+	{
+		"Raising the Bar: Wesleyan and Vines on Church": [
+			[
+				{
+					"term": "vines",
+					"probability": 0.027
+				},
+				{
+					"term": "church",
+					"probability": 0.027
+				}
+			],
+			[
+				{
+					"term": "night",
+					"probability": 0.047
+				},
+				{
+					"term": "bar",
+					"probability": 0.046
+				},
+				{
+					"term": "neil",
+					"probability": 0.042
+				},
+				{
+					"term": "place",
+					"probability": 0.033
+				},
+				{
+					"term": "people",
+					"probability": 0.033
+				}
+			]
+		]
+	},
+	{
+		"The Wesleyan Condition: Endless Intellectual Curiosity": [
+			[
+				{
+					"term": "students",
+					"probability": 0.043
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.041
+				},
+				{
+					"term": "university",
+					"probability": 0.035
+				},
+				{
+					"term": "time",
+					"probability": 0.034
+				},
+				{
+					"term": "school",
+					"probability": 0.034
+				}
+			],
+			[
+				{
+					"term": "campus",
+					"probability": 0.026
+				},
+				{
+					"term": "opinions",
+					"probability": 0.025
+				},
+				{
+					"term": "dissenting",
+					"probability": 0.025
+				}
+			]
+		]
+	},
+	{
+		"A Dead Electorate: The Case for an American Monarchy": [
+			[
+				{
+					"term": "americans",
+					"probability": 0.055
+				},
+				{
+					"term": "voters",
+					"probability": 0.041
+				},
+				{
+					"term": "election",
+					"probability": 0.036
+				},
+				{
+					"term": "turnout",
+					"probability": 0.031
+				},
+				{
+					"term": "franklin",
+					"probability": 0.024
+				}
+			],
+			[
+				{
+					"term": "vote",
+					"probability": 0.035
+				},
+				{
+					"term": "politically",
+					"probability": 0.029
+				},
+				{
+					"term": "civic",
+					"probability": 0.029
+				},
+				{
+					"term": "countrys",
+					"probability": 0.027
+				},
+				{
+					"term": "issues",
+					"probability": 0.026
+				}
+			]
+		]
+	},
+	{
+		"A Coachable Moment: Bringing Transparency to Campus Sexual Misconduct": [
+			[
+				{
+					"term": "athlete",
+					"probability": 0.031
+				},
+				{
+					"term": "coaches",
+					"probability": 0.029
+				},
+				{
+					"term": "teams",
+					"probability": 0.028
+				},
+				{
+					"term": "sexual",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "coaches",
+					"probability": 0.047
+				}
+			]
+		]
+	},
+	{
+		"New Muslim Chaplain Hopes to Increase Interfaith Relations and Awareness of Islam": [
+			[
+				{
+					"term": "muslim",
+					"probability": 0.092
+				},
+				{
+					"term": "campus",
+					"probability": 0.056
+				},
+				{
+					"term": "students",
+					"probability": 0.053
+				},
+				{
+					"term": "aziz",
+					"probability": 0.045
+				},
+				{
+					"term": "chaplain",
+					"probability": 0.035
+				}
+			],
+			[
+				{
+					"term": "working",
+					"probability": 0.053
+				},
+				{
+					"term": "aziz",
+					"probability": 0.053
+				},
+				{
+					"term": "events",
+					"probability": 0.043
+				},
+				{
+					"term": "islam",
+					"probability": 0.038
+				},
+				{
+					"term": "interfaith",
+					"probability": 0.032
+				}
+			]
+		]
+	},
+	{
+		"University Releases Annual Sexual Violence Report and Next Steps for Equity and Inclusion": [
+			[
+				{
+					"term": "farias",
+					"probability": 0.036
+				},
+				{
+					"term": "working",
+					"probability": 0.029
+				},
+				{
+					"term": "equity",
+					"probability": 0.029
+				},
+				{
+					"term": "wrote",
+					"probability": 0.026
+				},
+				{
+					"term": "faculty",
+					"probability": 0.026
+				}
+			],
+			[
+				{
+					"term": "sexual",
+					"probability": 0.064
+				},
+				{
+					"term": "assault",
+					"probability": 0.05
+				},
+				{
+					"term": "students",
+					"probability": 0.035
+				},
+				{
+					"term": "report",
+					"probability": 0.035
+				},
+				{
+					"term": "violence",
+					"probability": 0.032
+				}
+			]
+		]
+	},
+	{
+		"Trustees Convene in Official and Private Meetings": [
+			[
+				{
+					"term": "trustees",
+					"probability": 0.07
+				},
+				{
+					"term": "requests",
+					"probability": 0.029
+				},
+				{
+					"term": "meetings",
+					"probability": 0.029
+				},
+				{
+					"term": "holder",
+					"probability": 0.029
+				},
+				{
+					"term": "argus",
+					"probability": 0.029
+				}
+			],
+			[
+				{
+					"term": "board",
+					"probability": 0.084
+				},
+				{
+					"term": "students",
+					"probability": 0.045
+				},
+				{
+					"term": "universitys",
+					"probability": 0.042
+				},
+				{
+					"term": "members",
+					"probability": 0.042
+				},
+				{
+					"term": "president's",
+					"probability": 0.028
+				}
+			]
+		]
+	},
+	{
+		"Students Look to Vote Amid Low Turnout": [
+			[
+				{
+					"term": "vote",
+					"probability": 0.11
+				},
+				{
+					"term": "states",
+					"probability": 0.05
+				},
+				{
+					"term": "elect",
+					"probability": 0.046
+				},
+				{
+					"term": "people",
+					"probability": 0.029
+				}
+			],
+			[
+				{
+					"term": "voters",
+					"probability": 0.046
+				},
+				{
+					"term": "percent",
+					"probability": 0.035
+				},
+				{
+					"term": "millennials",
+					"probability": 0.02
+				}
+			]
+		]
+	},
+	{
+		"Breaking Out of the Bubble: A Look into the Gap Year of Sydney Taylor-Klaus ’20": [
+			[
+				{
+					"term": "taylorklaus",
+					"probability": 0.035
+				},
+				{
+					"term": "natural",
+					"probability": 0.03
+				},
+				{
+					"term": "permaculture",
+					"probability": 0.026
+				},
+				{
+					"term": "work",
+					"probability": 0.022
+				},
+				{
+					"term": "learn",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "years",
+					"probability": 0.067
+				},
+				{
+					"term": "taylorklaus",
+					"probability": 0.047
+				},
+				{
+					"term": "gap",
+					"probability": 0.041
+				},
+				{
+					"term": "school",
+					"probability": 0.037
+				},
+				{
+					"term": "experiences",
+					"probability": 0.028
+				}
+			]
+		]
+	},
+	{
+		"Tensions Heighten in the Wake of Scott Backer Scandal": [
+			[
+				{
+					"term": "sexual",
+					"probability": 0.038
+				},
+				{
+					"term": "backer",
+					"probability": 0.035
+				},
+				{
+					"term": "elias",
+					"probability": 0.033
+				},
+				{
+					"term": "assault",
+					"probability": 0.025
+				}
+			],
+			[
+				{
+					"term": "administration",
+					"probability": 0.037
+				},
+				{
+					"term": "students",
+					"probability": 0.029
+				},
+				{
+					"term": "roths",
+					"probability": 0.026
+				},
+				{
+					"term": "people",
+					"probability": 0.021
+				},
+				{
+					"term": "backer",
+					"probability": 0.021
+				}
+			]
+		]
+	},
+	{
+		"Why We Won’t Talk About War": [
+			[
+				{
+					"term": "veterans",
+					"probability": 0.048
+				},
+				{
+					"term": "military",
+					"probability": 0.031
+				}
+			],
+			[
+				{
+					"term": "wars",
+					"probability": 0.053
+				}
+			]
+		]
+	},
+	{
+		"Why We Must Talk to Trump Supporters": [
+			[
+				{
+					"term": "trump",
+					"probability": 0.05
+				},
+				{
+					"term": "supported",
+					"probability": 0.05
+				},
+				{
+					"term": "talk",
+					"probability": 0.021
+				}
+			],
+			[
+				{
+					"term": "trump",
+					"probability": 0.04
+				},
+				{
+					"term": "rise",
+					"probability": 0.022
+				},
+				{
+					"term": "political",
+					"probability": 0.022
+				}
+			]
+		]
+	},
+	{
+		"New Bookstore to Open on Main St. this Spring, Broad St. Books Employees Blindsided": [
+			[
+				{
+					"term": "middletown",
+					"probability": 0.031
+				},
+				{
+					"term": "employees",
+					"probability": 0.028
+				},
+				{
+					"term": "bookstore",
+					"probability": 0.026
+				},
+				{
+					"term": "university",
+					"probability": 0.025
+				},
+				{
+					"term": "street",
+					"probability": 0.022
+				}
+			],
+			[
+				{
+					"term": "bookstore",
+					"probability": 0.047
+				},
+				{
+					"term": "architects",
+					"probability": 0.02
+				}
+			]
+		]
+	},
+	{
+		"Students at University Participate in Nationwide Jewish Resistance Movement": [
+			[
+				{
+					"term": "jewish",
+					"probability": 0.063
+				},
+				{
+					"term": "communities",
+					"probability": 0.04
+				},
+				{
+					"term": "event",
+					"probability": 0.035
+				},
+				{
+					"term": "students",
+					"probability": 0.034
+				},
+				{
+					"term": "line",
+					"probability": 0.031
+				}
+			],
+			[
+				{
+					"term": "people",
+					"probability": 0.042
+				},
+				{
+					"term": "justice",
+					"probability": 0.024
+				},
+				{
+					"term": "judaism",
+					"probability": 0.024
+				},
+				{
+					"term": "bannon",
+					"probability": 0.024
+				},
+				{
+					"term": "social",
+					"probability": 0.023
+				}
+			]
+		]
+	},
+	{
+		"University Plans External Title IX Review": [
+			[
+				{
+					"term": "title",
+					"probability": 0.068
+				},
+				{
+					"term": "ix",
+					"probability": 0.068
+				},
+				{
+					"term": "process",
+					"probability": 0.038
+				},
+				{
+					"term": "student",
+					"probability": 0.037
+				},
+				{
+					"term": "committee",
+					"probability": 0.029
+				}
+			],
+			[
+				{
+					"term": "university",
+					"probability": 0.037
+				},
+				{
+					"term": "vrlc",
+					"probability": 0.032
+				},
+				{
+					"term": "reviewers",
+					"probability": 0.027
+				},
+				{
+					"term": "victim",
+					"probability": 0.026
+				},
+				{
+					"term": "law",
+					"probability": 0.026
+				}
+			]
+		]
+	},
+	{
+		"Remembering the Fisk Takeover, 48 Years Later": [
+			[
+				{
+					"term": "students",
+					"probability": 0.067
+				},
+				{
+					"term": "black",
+					"probability": 0.058
+				},
+				{
+					"term": "takeover",
+					"probability": 0.057
+				},
+				{
+					"term": "universitys",
+					"probability": 0.049
+				},
+				{
+					"term": "demands",
+					"probability": 0.042
+				}
+			],
+			[
+				{
+					"term": "fisk",
+					"probability": 0.057
+				},
+				{
+					"term": "wesleyan",
+					"probability": 0.037
+				},
+				{
+					"term": "malcolm",
+					"probability": 0.033
+				},
+				{
+					"term": "hall",
+					"probability": 0.033
+				},
+				{
+					"term": "honor",
+					"probability": 0.03
+				}
+			]
+		]
+	},
+	{
+		"The Demise of the Democrats": [
+			[
+				{
+					"term": "republican",
+					"probability": 0.026
+				},
+				{
+					"term": "america",
+					"probability": 0.023
+				},
+				{
+					"term": "democratic",
+					"probability": 0.022
+				},
+				{
+					"term": "american",
+					"probability": 0.02
+				}
+			],
+			[
+				{
+					"term": "democratic",
+					"probability": 0.056
+				},
+				{
+					"term": "party",
+					"probability": 0.041
+				},
+				{
+					"term": "obama",
+					"probability": 0.026
+				}
+			]
+		]
+	},
+	{
+		"Congresswoman Rosa DeLauro Calls Students to Action": [
+			[
+				{
+					"term": "delauro",
+					"probability": 0.026
+				},
+				{
+					"term": "talk",
+					"probability": 0.024
+				},
+				{
+					"term": "public",
+					"probability": 0.024
+				},
+				{
+					"term": "education",
+					"probability": 0.022
+				},
+				{
+					"term": "democrats",
+					"probability": 0.021
+				}
+			],
+			[
+				{
+					"term": "administration",
+					"probability": 0.048
+				},
+				{
+					"term": "trump",
+					"probability": 0.035
+				},
+				{
+					"term": "delauro",
+					"probability": 0.033
+				},
+				{
+					"term": "important",
+					"probability": 0.032
+				},
+				{
+					"term": "people",
+					"probability": 0.023
+				}
+			]
+		]
+	},
+	{
+		"University to Move Forward With Equity and Inclusion Resource Center": [
+			[
+				{
+					"term": "center",
+					"probability": 0.05
+				},
+				{
+					"term": "proposal",
+					"probability": 0.026
+				},
+				{
+					"term": "equity",
+					"probability": 0.023
+				}
+			],
+			[
+				{
+					"term": "students",
+					"probability": 0.054
+				},
+				{
+					"term": "center",
+					"probability": 0.048
+				}
+			]
+		]
+	}
+]
